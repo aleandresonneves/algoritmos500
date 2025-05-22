@@ -1,0 +1,7 @@
+public class Anita {
+    public static void main(String [] args) {
+        System.out.println("APRENDENDO ALORITMO!!!\n");    
+        System.out.println("Com Anita e Guto");
+    }
+}
+// aloritmo 14
