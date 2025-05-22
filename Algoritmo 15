@@ -1,0 +1,7 @@
+public class Anita {
+    public static void main(String [] args) {
+        System.out.println("APRENDENDO ALORITMO\nCom Anita e Guto\n\n E implementando no UAL \n Fica muito mais fácil!!!");    
+       // System.out.println("Com Anita e Guto");
+    }
+}
+// aloritmo 15
