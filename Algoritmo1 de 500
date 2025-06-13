@@ -1,0 +1,12 @@
+public class Algoritmos500 {
+    public static void main(String args []){
+        System.out.println("Como fritar um ovo?");
+        System.out.println("1 -pegar frigideira, ovo, óleo e sal\r\n" + //
+                        "2 - colocar óleo na frigideira\r\n" + //
+                        "3 - acender o fogo\r\n" + //
+                        "4 - colocar a frigideira no fogo\r\n" + //
+                        "5 - esperar o óleo esquentar\r\n" + //
+                        "6 - colocar o ovo\r\n" + //
+                        "7 - retirar quando pronto");
+    }
+}
