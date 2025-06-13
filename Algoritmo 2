@@ -1,0 +1,9 @@
+public class Algoritmos500 {
+    public static void main(String args []){
+        System.out.println("Mascar um chiclete");
+        System.out.println("1 - pegar o chiclete\r\n" + //
+                        "2 - retirar o papel\r\n" + //
+                        "2 - mastigar\r\n" + //
+                        "4 - jogar o papel no lixo ");
+    }
+}
